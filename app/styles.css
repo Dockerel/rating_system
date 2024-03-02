@@ -1,0 +1,25 @@
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+}
+
+.rating:hover {
+  cursor: pointer;
+}
+.App {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 50px;
+  background-color: black;
+  height: 100vh;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
